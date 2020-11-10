@@ -1,0 +1,76 @@
+<html>
+<head>
+<style>
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<table>
+<caption>Horario de 2 Bachillerato</caption>
+<thead>
+<tr>
+<th scope="col">LUNES</th>
+<th scope="col">MARTES</th>
+<th scope="col">MIERCOLES</th>
+<th scope="col">JUEVES</th>
+<th scope="col">VIERNES</th>
+</tr>
+</thead>
+<tr>
+<td rowspan="1" style="background-color:orange">FAG</td>
+<td colspan="1" style="background-color:red">Mates</td>
+<td colspan="1" style="background-color:gray">T.I.</td>
+<td colspan="1" style="background-color:palevioletred">D.T.</td>
+<td colspan="1" style="background-color:yellow">Inglés</td>
+</tr>
+<tr>
+<td rowspan="1" style="background-color:yellow">Inglés</td>
+<td colspan="1" style="background-color:yellow">Inglés</td>
+<td colspan="1" style="background-color:red">Mates</td>
+<td colspan="1" style="background-color:red">Mates</td>
+<td colspan="1" style="background-color:red">Mates</td>
+</tr>
+<tr>
+<td rowspan="1" style="background-color:deepskyblue">Lengua</td>
+<td colspan="1" style="background-color:greenyellow">Historia</td>
+<td colspan="1" style="background-color:palevioletred">D.T.</td>
+<td colspan="1" style="background-color:deepskyblue">Lengua</td>
+<td colspan="1" style="background-color:greenyellow">Historia</td>
+</tr>
+<tr>
+<td colspan="5">Recreo</td>
+</tr>
+<tr>
+<td rowspan="1" style="background-color:burlywood">TICo</td>
+<td colspan="1" style="background-color:burlywood">TICo</td>
+<td colspan="1" style="background-color:yellow">Inglés</td>
+<td colspan="1" style="background-color:green">Física</td>
+<td colspan="1" style="background-color:deepskyblue">Lengua</td>
+</tr>
+<tr>
+<td rowspan="1" style="background-color:green">Física</td>
+<td colspan="1" style="background-color:palevioletred">D.T.</td>
+<td colspan="1" style="background-color:green">Física</td>
+<td colspan="1" style="background-color:orange">FAG</td>
+<td colspan="1" style="background-color:green">Física</td>
+</tr>
+<tr>
+<td rowspan="1" style="background-color:greenyellow">Historia</td>
+<td colspan="1" style="background-color:gray">T.I</td>
+<td colspan="1" style="background-color:greenyellow">Historia</td>
+<td colspan="1" style="background-color:yellow">Inglés</td>
+<td colspan="1" style="background-color:palevioletred">D.T.</td>
+</tr>
+<tr>
+<td rowspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1" style="background-color:deepskyblue">Lengua</td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+</tr>
+</table>
+</body>
+</html>
